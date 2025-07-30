@@ -11,6 +11,10 @@ A full-stack expense tracking application built with React, TypeScript, Node.js,
 - **Responsive Design**: Modern UI built with Tailwind CSS
 - **Real-time Data**: Live updates with Redux state management
 
+## Statistics Screenshot
+
+<img width="3420" height="4030" alt="screencapture-localhost-5173-statistics-2025-07-30-07_37_37" src="https://github.com/user-attachments/assets/d80eba49-2363-40de-901b-6adc82b8d55c" />
+
 ## 🛠️ Tech Stack
 
 ### Frontend
